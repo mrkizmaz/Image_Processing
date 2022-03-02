@@ -1,0 +1,4 @@
+Ugulamanın çalışması için Python programlama dili üzerinden,
+- pip install os-sys
+- pip install PyQt5
+kütüphanelerin indirilmesi ve import edilmesi gerekmektedir.
