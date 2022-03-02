@@ -1,3 +1,4 @@
+# Ersel Kızmaz - ersel.kizmaz@gmail.com
 # herhangi bir görüntünün koordinat, RGB ve HSV degerlerini gösteren program
 
 """
